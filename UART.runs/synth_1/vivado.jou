@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon May  8 19:13:49 2023
+# Process ID: 11508
+# Current directory: C:/Users/ADMIN/UART/UART.runs/synth_1
+# Command line: vivado.exe -log UART_tb.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source UART_tb.tcl
+# Log file: C:/Users/ADMIN/UART/UART.runs/synth_1/UART_tb.vds
+# Journal file: C:/Users/ADMIN/UART/UART.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source UART_tb.tcl -notrace
